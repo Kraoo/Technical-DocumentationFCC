@@ -55,3 +55,34 @@ main header {
     font-size: 2.5em;
     margin-bottom: 30px;
 }
+
+#intro-photos {
+    max-width: 400px;
+    max-height: 300px;
+    width: 100%;
+    height: auto;
+}
+
+#strategy-photos {
+    max-width: 400px;
+    max-height: 300px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #fff;
+    border-radius: 10px;
+}
+
+#wcc-photos {
+    max-width: 400px;
+    max-height: 300px;
+    width: 100%;
+    height: auto;
+}
+
+.divider {
+    border-top: 3px solid #000;
+    margin-top: 20px; 
+    padding-top: 20px; 
+}
